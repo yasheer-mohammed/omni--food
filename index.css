@@ -1,0 +1,58 @@
+body
+{
+    background: gray;
+}       
+.wrapper
+{
+    width: 75%;
+    height: 100%;
+    background: green;
+    margin: 0 auto;
+}
+.header
+{
+    width: 1024px;
+    height: 150px;
+    background: #e20281;
+    float: left;
+}
+img
+{
+    float: left;
+}
+h1
+{
+    color: white;
+    font-size: 40px;
+    font-family: Arial;
+    float: left;
+}
+.menu
+{
+    width: 1024px;
+    height: 50px;
+    float: left;
+    background: #f2f2f2;
+}
+.content
+{
+    width: 1024px;
+    height: 528px;
+    background: white;
+}
+h2
+{
+ background: #e20281;
+}
+p
+{
+    padding: 15px ;
+    line-height: 15px;
+}
+.footer
+{
+    width: 1024px;
+    height: 50px;
+    background: #282828;
+    float: left;
+}
